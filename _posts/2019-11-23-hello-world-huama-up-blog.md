@@ -1,8 +1,8 @@
 ---
 date: 2019-11-23T11:58:18.000Z
 layout: post
-title: 花妈的花口袋上线了
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: 花口袋上线了
+subtitle: 花口袋HuaPocket——花妈的BLOG.
 description: >-
   初始化内容，仅用于测试。
 image: >-
