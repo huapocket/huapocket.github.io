@@ -6,8 +6,8 @@ subtitle: 花口袋！花妈在网上的第一个Blog。
 description: >-
   花妈的blog，购物体验分享
 image: >-
-http://www.huapocket.com/img/hello-world.jpg
-optimized_image: >-
+  http://www.huapocket.com/img/hello-world.jpg
+  optimized_image: >-
 http://www.huapocket.com/img/hello-world.jpg
 category: blog
 tags:
