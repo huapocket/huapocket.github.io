@@ -13,7 +13,7 @@ disqus_username: disqus_username
 show_hero: true
 
 
-# Social Media Settings
+# Social Media Settings社交媒体账户设置
 # Remove the item if you don't need it
 github_username: github_username
 facebook_username: facebook_username
@@ -23,7 +23,7 @@ linkedin_username: linkedin_username
 medium_username: medium_username
 
 
-# Theme Settings
+# Theme Settings主题设置
 themeColor: "#ff0a16"
 primaryDark: "#141414"
 accentDark: "#ffffff"
@@ -38,11 +38,11 @@ show_modal_on_finish_post: true
 two_columns_layout: true
 
 
-# Advanced Settings
+# Advanced Settings高级设置
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "zh"
+google_analytics: "UA-XXXXXXXX-X" #google统计代码设定
+language: "zh" #网页语言标志，zh表示为中文
 
 
 # Build settings
