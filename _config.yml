@@ -45,7 +45,7 @@ google_analytics: "UA-XXXXXXXX-X" #google统计代码设定
 language: "zh" #网页语言标志，zh表示为中文
 
 
-# Build settings
+# Build settings生成设置
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
