@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master
-  site_url: https://www.bolajiayodeji.com
+  site_url: https://www.huapocket.com
 
 publish_mode: editorial_workflow
 
